@@ -3,6 +3,16 @@ entries:
   kubechat:
   - apiVersion: v2
     appVersion: 0.1.0
+    created: "2020-05-10T22:39:53.053518675Z"
+    description: Deploy kubechat - A wrapper api of kubectl
+    digest: baff4d2718ce682146fd1b93751667dff39a57a4affcf341c8c5ce84861055dd
+    name: kubechat
+    type: application
+    urls:
+    - https://github.com/supernova106/charts/releases/download/kubechat-0.1.3/kubechat-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v2
+    appVersion: 0.1.0
     created: "2020-05-10T22:05:39.028252666Z"
     description: Deploy kubechat - A wrapper api of kubectl
     digest: ec5f1739b46b8cc7f575bb127df144d6130182b0b5556dd1a65c5769fefd13d7
